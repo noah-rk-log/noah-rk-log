@@ -1,0 +1,32 @@
+
+body {
+  font-family: monospace;
+  width: 600px;
+  margin: 60px auto;
+  line-height: 2;
+  background-color: #101010;
+  color: #b7b7b7;
+}
+
+
+
+.entry {
+  display: flex;
+  margin-top: 40px;
+}
+
+.date {
+  width: 150px;
+}
+
+.text {
+  flex: 1;
+}
+h1 {
+  font-size: 24px;
+  font-weight: normal;
+}
+
+p {
+  font-size: 16px;
+}
